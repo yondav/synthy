@@ -1,10 +1,19 @@
 {
     "name": "synthy",
-    "displayName": "synthy",
+    "displayName": "Synthy",
     "description": "vscode theme",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.67.0"
+    },
+    "author": {
+        "name": "Yoni David",
+        "email": "yoni@yondav.us",
+        "url": "https://yondav.us"
+    },
+    "repository": {
+        "url": "https://github.com/yondav/synthy",
+        "type": "git"
     },
     "categories": [
         "Themes"
